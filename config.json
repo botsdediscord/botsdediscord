@@ -1,0 +1,9 @@
+{
+  "token": "Nzc5ODMwNzgzMTgzNTUyNTIz.X7mQAw._MtlHMH5_VlPQVoJRYhUzqK6eHo",
+  "prefix": ".",
+  "scopes": ["identify", "guilds"],
+  "prompt": "consent",
+  "clientID": "779830783183552523",
+  "clientSecret": "RGLtpv7wsFBWZ5_3W88VAenv5p23QvkE",
+  "redirectURL": "https://botsdediscord.glitch.me/callback"
+}
